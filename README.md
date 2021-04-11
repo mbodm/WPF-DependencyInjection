@@ -18,6 +18,8 @@ Some .NET 5 WPF DI samples
   * ObjeservableModel/INotifyPropertyChanged
 * Info: We just use solely one View, cause we do not wanna use a DialogService/Messenger, just to keep the samples simple.
 
-All interessting stuff happens in file "*App.xaml.cs*". Above stuff is just there, so we can use our DI somewhere.
+### Whats going on ?
+
+All interessting stuff happens in file "*App.xaml.cs*". All the stuff explained above is just there for the simple reason that we need anything to make use of our DI. I am not sure, what the best practice is. Either using Microsofts Host, as they demonstrate in a Console Application sample on MSDN, or by just using the DI without their Host stuff. Nonetheless, all the different variants are set up in "*App.xaml.cs*" whereas all the other files are just there for demonstration purposes.
 
 Have fun.
