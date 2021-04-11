@@ -3,9 +3,9 @@ Some .NET 5 WPF DI samples
 
 ### The samples
 
-* Sample1: Using Host and DI (Microsoft.Extensions.Hosting and Microsoft.Extensions.DependencyInjection)
-* Sample2: Using solely IServiceCollection/IServiceProvider (Microsoft.Extensions.DependencyInjection)
-* Sample3: Using new WindowsCommunityToolkit MVVM package (Microsoft.Toolkit.Mvvm)
+* Sample1: Using Host and DI (*Microsoft.Extensions.Hosting* and *Microsoft.Extensions.DependencyInjection*)
+* Sample2: Using solely IServiceCollection/IServiceProvider (*Microsoft.Extensions.DependencyInjection*)
+* Sample3: Using new WindowsCommunityToolkit MVVM package (*Microsoft.Toolkit.Mvvm*)
 
 ### Quick overview:
 
