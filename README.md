@@ -15,7 +15,7 @@ Some .NET 5 WPF DI samples
 * Folder "*Views*" contains our one and only view.
 * Folder "*Helpers*" in Sample1 and Sample2 contains our own MVVM helpers for
   * RelayCommand/ICommand
-  * ObjeservableModel/INotifyPropertyChanged
+  * ObservableModel/INotifyPropertyChanged
 * Info: We just use solely one View, cause we do not wanna use a DialogService/Messenger, just to keep the samples simple.
 
 ### Whats going on ?
