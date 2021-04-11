@@ -11,8 +11,8 @@ Some .NET 5 WPF DI samples
 
 * Folder "*BusinessLogic*" contains a simple pseudo BL, so we can make use of DI.
 * Folder "*Services*" contains 2 simple pseudo services, so we can make use of DI.
-* Folder "*ViewModels*" contains the ViewModel for our one and only View.
-* Folder "*Views*" contains our one and only View.
+* Folder "*ViewModels*" contains the ViewModel for our one and only view.
+* Folder "*Views*" contains our one and only view.
 * Folder "*Helpers*" in Sample1 and Sample2 contains our own MVVM helpers for
   * RelayCommand/ICommand
   * ObjeservableModel/INotifyPropertyChanged
