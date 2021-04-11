@@ -20,6 +20,6 @@ Some .NET 5 WPF DI samples
 
 ### So, whats going on ?
 
-All interessting things happen in file "*App.xaml.cs*". All the stuff explained above is just there for one simple reason: We need some stuff, that use our DI. All 3 samples exists, cause i am not sure, what best practice is. Either using Microsofts Host, as they demonstrate in a Console Application sample on MSDN, or by just using the DI classes itself, without their Host stuff. Nonetheless, all the different variants are set up in "*App.xaml.cs*" whereas all the other files are just there for demonstration purposes. So have a look at that file specifically.
+All interessting things happen in file "*App.xaml.cs*". All the stuff explained above is just there for one simple reason: We need some stuff, that use our DI. All 3 samples exists, cause i am not sure what best practice is. Either using Microsofts Host, as they demonstrate in a Console Application sample on MSDN, or by just using the DI classes itself, without their Host stuff. Nonetheless, all the different variants are set up in "*App.xaml.cs*" whereas all the other files are just there for demonstration purposes. So have a look at that file specifically.
 
 Have fun.
