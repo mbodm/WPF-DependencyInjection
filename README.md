@@ -7,7 +7,7 @@ Some .NET 5 WPF DI samples
 * Sample2: Using solely IServiceCollection/IServiceProvider (*Microsoft.Extensions.DependencyInjection*)
 * Sample3: Using new WindowsCommunityToolkit MVVM package (*Microsoft.Toolkit.Mvvm*)
 
-### Quick overview:
+### Quick overview
 
 * Folder "BusinessLogic" contains a simple pseudo BL, so we can make use of DI.
 * Folder "Services" contains 2 simple pseudo services, so we can make use of DI.
